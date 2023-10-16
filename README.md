@@ -15,7 +15,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://yassinhrassul.dev/](https://yassinhrassul.dev/)
 
 - 📫 How to reach me **yassinhrassul@gmail.com**
 
@@ -79,9 +78,11 @@
 <ul dir="auto">
 <li>🌱 Experties lay in mobile and back-end development, I’m currently exploring front-end development deeply, big interest in 3D web development.</li>
 <li>💼 Bachelor's degree in Software engineering.</li>
+<li>👨‍💻 All of my projects are available at https://yassinhrassul.dev/
 <li>💬 Ask me about anything, I would love to answer!.</li>
 <li>📫 Email me at <a href="mailto:yassinhrassul@gmail.com">yassinhrassul@gmail.com</a>.</li>
 <li>🤙 Learn more about me on LinkedIn <a href="https://www.linkedin.com/in/yassin-rassul/" rel="nofollow">let's connect</a>.</li>
+    
 </ul>
 <p dir="auto"><br><br></p>
 <p align="center" dir="auto">
