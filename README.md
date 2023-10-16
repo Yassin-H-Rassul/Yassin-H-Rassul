@@ -70,7 +70,7 @@
 <br></p>
 <p dir="auto">You have an idea and want help to make it a reality? or do you want have discussion about future tech? please feel free to contact me, I would love to be a part of it 😁.<br>
 ....<br></p>
-<p dir="auto">Looking for a tech or front-end Mentor 🧑‍🏫</p>
+<p dir="auto">Looking for a tech or mobile dev Mentor 🧑‍🏫</p>
 <p dir="auto"><br><br></p>
 <div align="center" width="100%" dir="auto"> <a href="https://github.com/mhamad-raad/"><img src="https://camo.githubusercontent.com/f1bfaab9aeb31a54a8bf731db0150a9ad01e765a6eee528934b3bd645160bc78/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d68616d61642d72616164267468656d653d7261646963616c26636f6c756d6e3d37266d617267696e2d773d3135266d617267696e2d683d3135" alt="mhamad-raad" data-canonical-src="https://github-profile-trophy.vercel.app/?username=mhamad-raad&amp;theme=radical&amp;column=7&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a> </div>
 <p dir="auto"><br><br></p>
