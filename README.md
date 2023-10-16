@@ -12,8 +12,6 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/yassin9895" target="blank"><img src="https://img.shields.io/twitter/follow/yassin9895?logo=twitter&style=for-the-badge" alt="yassin9895" /></a> </p>
-<br>
 
 
 - 👨‍💻 All of my projects are available at [https://yassinhrassul.dev/](https://yassinhrassul.dev/)
