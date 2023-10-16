@@ -218,15 +218,14 @@
         </span>
       </span></animated-image></p>
 <p dir="auto"><br><br></p>
-<h3 id="user-content--leave-a-star️-mhamad-r-" dir="auto"><a class="heading-link" href="#-leave-a-star️-mhamad-r-">** Leave a star⭐️ </a><a href="https://github.com/Mhamad-Raad/Mhamad-Raad">Mhamad R</a> **<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></h3>
-<p dir="auto">Ps: looks better in darkmode, <br>
-Thanks for visiting 💜</p>
+<h3 id="user-content--leave-a-star️-mhamad-r-" dir="auto"><a class="heading-link" href="#-leave-a-star️-mhamad-r-">** Leave a star⭐️ </a><a href="https://github.com/yassin-h-rassyl">Yassin H</a> **<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></h3>
+Thanks for visiting</p>
  <br>
  <div align="center" dir="auto">
 <p dir="auto">** Profile Vists **
 💚
 <br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7906ea31fb97f55f3c4165d245bc84784f6b8118431616f190aa5a6ade56cec8/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4d68616d61642d526161642f636f756e742e737667"><img src="https://camo.githubusercontent.com/7906ea31fb97f55f3c4165d245bc84784f6b8118431616f190aa5a6ade56cec8/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4d68616d61642d526161642f636f756e742e737667" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/Mhamad-Raad/count.svg" style="max-width: 100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/yassin-h-rassul/count.svg"><img src="https://profile-counter.glitch.me/yassin-h-rassul/count.svg" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/yassin-h-rassul/count.svg" style="max-width: 100%;"></a></p>
  </div>
  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3c3769a2ae8612480297625e275cb03951c12f3ae00e00491b45c267afea4b4d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/3c3769a2ae8612480297625e275cb03951c12f3ae00e00491b45c267afea4b4d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer" style="max-width: 100%;"></a></p>
 </article>
