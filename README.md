@@ -120,7 +120,6 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-
         </span>
       </span></animated-image></p>
 <p dir="auto"><br><br></p>
