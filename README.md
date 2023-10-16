@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
 <h3 align="center">A Full-Stack developer, proficient in Flutter and Backend development, and open to new opportunities.</h3>
 
+<br><br><br><br><br><br><br><br><br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassin-h-rassul&label=Profile%20views&color=0e75b6&style=flat" alt="yassin-h-rassul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassin-h-rassul" alt="yassin-h-rassul" /></a> </p>
