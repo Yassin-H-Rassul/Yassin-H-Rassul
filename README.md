@@ -189,7 +189,7 @@
           <p align="center" dir="auto">
           <a href="https://github.com/yassin-h-rassul">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=yassin-h-rassul&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yassin-h-rassul&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100%;">
-          <img width="49.5%" src="https://camo.githubusercontent.com/2a88132af714ee148b17129098f7e9dc43f3326d33f183563f4dbde5b3a0031b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d68616d61642d52616164267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-h-rassul&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100%;">
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-h-rassul&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100%;" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=yassin-h-rassul&amp;theme=midnight-purple&amp;hide_border=true" style="max-width: 100%;">
           </a>
 </p>
 <p dir="auto"><br><br></p>
