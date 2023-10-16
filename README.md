@@ -169,7 +169,7 @@
 Thanks for visiting</p>
  <br>
  <div align="center" dir="auto">
-<p dir="auto">Profile Vistis
+<p dir="auto">Profile Visits
 
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/yassin-h-rassul/count.svg"><img src="https://profile-counter.glitch.me/yassin-h-rassul/count.svg" alt="VisitorCount" data-canonical-src="https://profile-counter.glitch.me/yassin-h-rassul/count.svg" style="max-width: 100%;"></a></p>
