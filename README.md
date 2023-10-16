@@ -103,7 +103,7 @@
 
 
 <p dir="auto"><br><br></p>
-<p dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-target="animated-image.originalLink"><img height="30px" src="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-canonical-src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <p dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-target="animated-image.originalLink"><img height="30px" src="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-canonical-src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" target="_blank">
         <span data-target="animated-image.imageContainer">
@@ -121,7 +121,7 @@
             </svg>
           </button>
         </span>
-      </span></animated-image></p>
+      </span></animated-image></p> -->
 <p dir="auto"><br><br></p>
 <h2 id="user-content--coding--activity-status-" dir="auto"><a class="heading-link" href="#-coding--activity-status-"> Coding &amp; Activity status <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
 <p align="center" dir="auto">
