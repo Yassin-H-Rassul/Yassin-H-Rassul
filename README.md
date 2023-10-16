@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
-<h3 align="center">A Full-Stack Developer, proficient in Flutter and full-stack web development, and open to new opportunities.</h3>
+<h3 align="center">A Full-Stack Developer, proficient in Flutter and Backend development, and open to new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassin-h-rassul&label=Profile%20views&color=0e75b6&style=flat" alt="yassin-h-rassul" /> </p>
 
