@@ -109,22 +109,7 @@
           </a>
         </span>
       </span></animated-image> <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c54dd26a37819aa28fab0dfa22fdbbc229194b0cd0c1b4bda89d84752488a15a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" data-target="animated-image.originalLink"><img align="center" src="https://camo.githubusercontent.com/c54dd26a37819aa28fab0dfa22fdbbc229194b0cd0c1b4bda89d84752488a15a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" height="360px" data-canonical-src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/c54dd26a37819aa28fab0dfa22fdbbc229194b0cd0c1b4bda89d84752488a15a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" target="_blank">
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c54dd26a37819aa28fab0dfa22fdbbc229194b0cd0c1b4bda89d84752488a15a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" height="360px" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="360" height="360"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f455334566376387a57664974322f67697068792e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
+
           
 <br>
 </p>
