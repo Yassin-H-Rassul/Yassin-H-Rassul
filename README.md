@@ -1,7 +1,8 @@
 
 
 
-<h1>Hi there, I am Yassin </h3>
+<h1 align="center">Hi there, I'm Yassin</h1>
+
 
 <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
