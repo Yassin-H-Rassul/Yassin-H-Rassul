@@ -6,10 +6,11 @@
 <img src="https://camo.githubusercontent.com/7497c611ea52b5efd545530c14b50fa9f1582fe3283b9df15cb60e0513737e4b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d35302670617573653d3130303026636f6c6f723d3736343946372663656e7465723d74727565267643656e7465723d747275652677696474683d373030266865696768743d3730266c696e65733d48656c6c6f2b446576656c6f706572732b25334133" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=50&amp;pause=1000&amp;color=7649F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=Hello+Developers+%3A3" style="max-width: 100%;">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassin-h-rassul&label=Profile%20views&color=0e75b6&style=flat" alt="yassin-h-rassul" /> </p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassin-h-rassul" alt="yassin-h-rassul" /></a> </p>
 <br>
-
-
 
 
 
