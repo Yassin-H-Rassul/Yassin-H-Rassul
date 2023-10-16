@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassin</h1>
+<h1 align="center">Hello there, I'm Yassin</h1>
 <h3 align="center">A Full-Stack developer, proficient in Flutter and Backend development, and open to new opportunities.</h3>
 
 <br>
