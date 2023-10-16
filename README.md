@@ -84,7 +84,7 @@
 <li>🤙 Learn more about me on LinkedIn <a href="https://www.linkedin.com/in/yassin-rassul/" rel="nofollow">let's connect</a>.</li>
 </ul>
 <p dir="auto"><br><br></p>
-<p dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-target="animated-image.originalLink"><img height="30px" src="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-canonical-src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<!-- <p dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-target="animated-image.originalLink"><img height="30px" src="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" data-canonical-src="https://media.giphy.com/media/3WKkbQCiyFOsVh7BBh/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/cc6b70eb6bd0006cd27154ffb415de2a940a2d191779997134c03192b1907ad0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33574b6b6251436979464f735668374242682f67697068792e676966" target="_blank">
         <span data-target="animated-image.imageContainer">
@@ -107,7 +107,7 @@
             </svg>
           </a>
         </span>
-      </span></animated-image></p>
+      </span></animated-image></p> -->
 <p dir="auto"><br><br></p>
 <p align="center" dir="auto">
 <br>
