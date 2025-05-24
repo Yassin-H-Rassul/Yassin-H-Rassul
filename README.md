@@ -10,7 +10,7 @@
       </div>
 
 
-<p dir="auto">A Full-Stack developer, proficient in Mobile and Backend development 😎, open to new opportunities✏️.<br>
+<p dir="auto">An AI Researcher and Full-Stack developer, proficient in Mobile and Backend development 😎, open to new opportunities✏️.<br>
 ....
 <br></p>
 <p dir="auto">You have an idea and want help to make it a reality? or do you want have discussion about future tech? please feel free to contact me, I would love to be a part of it 😁.<br>
