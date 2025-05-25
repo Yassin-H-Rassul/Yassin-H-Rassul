@@ -15,7 +15,7 @@
 <br></p>
 <p dir="auto">You have an idea and want help to make it a reality? or do you want have discussion about future tech? please feel free to contact me, I would love to be a part of it 😁.<br>
 ....<br></p>
-<p dir="auto">Looking for a tech or mobile dev Mentor 🧑‍🏫</p>
+<p dir="auto">Looking for a AI, tech or mobile dev Mentor 🧑‍🏫</p>
 <p dir="auto"><br><br></p>
 
 <p dir="auto"><br><br></p>
