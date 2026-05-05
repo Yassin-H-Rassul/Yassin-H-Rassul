@@ -7,8 +7,7 @@
   </div>
 
   <p dir="auto">
-    An AI Researcher and Full-Stack Developer, proficient in mobile and backend development 😎,
-    open to new opportunities ✏️.
+    An AI Researcher and Full-Stack Developer, proficient in mobile and backend development.
     <br>
     ....
     <br>
