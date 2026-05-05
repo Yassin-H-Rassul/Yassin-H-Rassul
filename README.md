@@ -22,7 +22,6 @@
   </p>
 
   <p dir="auto">
-    Looking for an AI, tech, or mobile dev mentor 🧑‍🏫
   </p>
 
   <br><br>
